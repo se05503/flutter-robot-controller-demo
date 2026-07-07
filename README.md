@@ -1,2 +1,2 @@
 # flutter-robot-controller-demo
-Flutter와 ESP32를 활용한 로봇 BLE 연동 및 제어 학습용 어플리케이션입니다.
+인턴 경험을 바탕으로 Flutter와 ESP32를 활용한 BLE 통신 및 로봇 제어를 학습 및 확장하는 개인용 프로젝트입니다.
